@@ -1,0 +1,3193 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebPBL3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebPBL3.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\animate.css",
+      "PackagePath": "staticwebassets\\admin_css\\animate.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\baguetteBox.min.css",
+      "PackagePath": "staticwebassets\\admin_css\\baguetteBox.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap-select.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\admin_css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\calendar.css",
+      "PackagePath": "staticwebassets\\admin_css\\calendar.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\calendar.min.css",
+      "PackagePath": "staticwebassets\\admin_css\\calendar.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\color_2.css",
+      "PackagePath": "staticwebassets\\admin_css\\color_2.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\custom.css",
+      "PackagePath": "staticwebassets\\admin_css\\custom.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\flaticon.css",
+      "PackagePath": "staticwebassets\\admin_css\\flaticon.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin_css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin_css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\admin_css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\admin_css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\order.css",
+      "PackagePath": "staticwebassets\\admin_css\\order.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\admin_css\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin_css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\responsive.css",
+      "PackagePath": "staticwebassets\\admin_css\\responsive.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\semantic.min.css",
+      "PackagePath": "staticwebassets\\admin_css\\semantic.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_css\\style.css",
+      "PackagePath": "staticwebassets\\admin_css\\style.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\admin_fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\admin_fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\admin_fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\admin_fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\admin_fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\admin_fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\admin_fonts\\flaticon.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\admin_fonts\\flaticon.html"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\admin_fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\admin_fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin_fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\admin_fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin_fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\admin_fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\admin_fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\admin_fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\admin_fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\admin_fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\american-express.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\american-express.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\bg1.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\bg1.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\error.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\error.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g1.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g10.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g10.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g11.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g11.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g12.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g12.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g13.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g13.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g14.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g14.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g15.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g15.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g16.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g16.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g2.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g2.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g3.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g3.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g4.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g4.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g5.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g5.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g6.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g6.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g7.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g7.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g8.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g8.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\g9.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\g9.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\login_image.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\login_image.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\map_icon.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\map_icon.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\mastercard.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\msg1.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\msg1.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\msg2.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\msg2.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\msg3.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\msg3.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\msg4.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\msg4.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\msg5.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\msg5.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\pattern.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\pattern.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\pattern_h.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\pattern_h.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\paypal.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\paypal.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\user_img.jpg",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\user_img.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\layout_img\\visa.png",
+      "PackagePath": "staticwebassets\\admin_images\\layout_img\\visa.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\admin_images\\logo\\logo.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\logo\\logo_black.png",
+      "PackagePath": "staticwebassets\\admin_images\\logo\\logo_black.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_images\\logo\\logo_icon.png",
+      "PackagePath": "staticwebassets\\admin_images\\logo\\logo_icon.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\admin_js\\Chart.bundle.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin_js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\Chart.js",
+      "PackagePath": "staticwebassets\\admin_js\\Chart.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin_js\\Chart.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\analyser.js",
+      "PackagePath": "staticwebassets\\admin_js\\analyser.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\animate.js",
+      "PackagePath": "staticwebassets\\admin_js\\animate.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\admin_js\\bootstrap-select.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\admin_js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\admin_js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin_js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\admin_js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin_js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\admin_js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin_js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin_js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\calendar.js",
+      "PackagePath": "staticwebassets\\admin_js\\calendar.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\calendar.min.js",
+      "PackagePath": "staticwebassets\\admin_js\\calendar.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\car.js",
+      "PackagePath": "staticwebassets\\admin_js\\car.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\chart_custom_style1.js",
+      "PackagePath": "staticwebassets\\admin_js\\chart_custom_style1.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\chart_custom_style2.js",
+      "PackagePath": "staticwebassets\\admin_js\\chart_custom_style2.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\custom.js",
+      "PackagePath": "staticwebassets\\admin_js\\custom.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\custom_chart.js",
+      "PackagePath": "staticwebassets\\admin_js\\custom_chart.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\admin_js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\jquery-3.3.1.slim.min.js",
+      "PackagePath": "staticwebassets\\admin_js\\jquery-3.3.1.slim.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\admin_js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\admin_js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin_js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\admin_js\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin_js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin_js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\semantic.min.js",
+      "PackagePath": "staticwebassets\\admin_js\\semantic.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\settings.html",
+      "PackagePath": "staticwebassets\\admin_js\\settings.html"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_js\\utils.js",
+      "PackagePath": "staticwebassets\\admin_js\\utils.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-3d.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-3d.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-animation.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-animation.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-api-annotations.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-api-annotations.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-api-rules.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-api-rules.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-api.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-api.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-area.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-area.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-area3d.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-area3d.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-boxplot.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-boxplot.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-bubble.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-bubble.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-bubblepie.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-bubblepie.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-calendar.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-calendar.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-chord.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-chord.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-core.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-core.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-csv.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-csv.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-debug.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-debug.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-dragging.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-dragging.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-errorbars.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-errorbars.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-export.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-export.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-gauge.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-gauge.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-grid.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-grid.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-guide.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-guide.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-hbar.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-hbar.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-hbar3d.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-hbar3d.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-hbubble.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-hbubble.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-hbullet.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-hbullet.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-hfunnel.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-hfunnel.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-history.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-history.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-hscatter.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-hscatter.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-legend.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-legend.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-line.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-line.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-line3d.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-line3d.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-afg.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-afg.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-ago.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-ago.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-alb.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-alb.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-and.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-and.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-are.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-are.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-arg.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-arg.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-arm.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-arm.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-aus.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-aus.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-aut.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-aut.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-aze.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-aze.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-bdi.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-bdi.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-bel.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-bel.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-ben.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-ben.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-bfa.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-bfa.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-bgr.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-bgr.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-bih.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-bih.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-blr.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-blr.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-bol.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-bol.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-bra.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-bra.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-brn.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-brn.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-btn.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-btn.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-bwa.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-bwa.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-caf.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-caf.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-can.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-can.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-che.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-che.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-chl.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-chl.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-chn.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-chn.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-civ.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-civ.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-cmr.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-cmr.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-cod.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-cod.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-cog.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-cog.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-col.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-col.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-cri.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-cri.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-cub.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-cub.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-cyp.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-cyp.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-cze.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-cze.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-deu.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-deu.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-dnk.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-dnk.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-ecu.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-ecu.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-egy.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-egy.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-esp.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-esp.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-espL2.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-espL2.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-est.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-est.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-eth.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-eth.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-fin.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-fin.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-fra.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-fra.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-fraL2.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-fraL2.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-gab.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-gab.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-gbr.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-gbr.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-gbrL2.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-gbrL2.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-geojson.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-geojson.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-gha.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-gha.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-gmb.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-gmb.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-gnb.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-gnb.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-grc.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-grc.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-gtm.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-gtm.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-guf.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-guf.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-guy.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-guy.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-hrv.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-hrv.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-hun.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-hun.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-ind.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-ind.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-irl.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-irl.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-irn.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-irn.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-isl.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-isl.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-isr.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-isr.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-ita.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-ita.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-jpn.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-jpn.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-kaz.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-kaz.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-ken.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-ken.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-kor.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-kor.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-kwt.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-kwt.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-lao.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-lao.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-lbr.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-lbr.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-lie.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-lie.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-ltu.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-ltu.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-lux.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-lux.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-lva.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-lva.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-mda.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-mda.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-mex.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-mex.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-mkd.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-mkd.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-mne.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-mne.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-moz.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-moz.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-nam.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-nam.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-ncl.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-ncl.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-nga.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-nga.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-nld.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-nld.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-nor.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-nor.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-nzl.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-nzl.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-omn.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-omn.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-pak.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-pak.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-pan.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-pan.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-per.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-per.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-phl.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-phl.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-png.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-png.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-pol.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-pol.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-prt.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-prt.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-qat.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-qat.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-rou.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-rou.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-rus.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-rus.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-rwa.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-rwa.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-sen.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-sen.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-slv.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-slv.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-srb.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-srb.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-sur.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-sur.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-svk.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-svk.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-svn.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-svn.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-swe.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-swe.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-tha.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-tha.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-tjk.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-tjk.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-topojson.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-topojson.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-tun.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-tun.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-tur.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-tur.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-twn.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-twn.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-uga.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-uga.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-ukr.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-ukr.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-ury.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-ury.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ak.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ak.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_al.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_al.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ar.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ar.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_az.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_az.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ca.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ca.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_co.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_co.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ct.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ct.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_dc.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_dc.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_de.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_de.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_fl.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_fl.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ga.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ga.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_hi.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_hi.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ia.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ia.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_id.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_id.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_il.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_il.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_in.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_in.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ks.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ks.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ky.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ky.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_la.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_la.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ma.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ma.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_md.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_md.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_me.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_me.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_mi.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_mi.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_mn.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_mn.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_mo.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_mo.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ms.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ms.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_mt.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_mt.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_nc.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_nc.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_nd.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_nd.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ne.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ne.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_nh.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_nh.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_nj.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_nj.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_nm.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_nm.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_nv.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_nv.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ny.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ny.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_oh.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_oh.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ok.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ok.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_or.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_or.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_pa.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_pa.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ri.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ri.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_sc.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_sc.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_sd.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_sd.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_tn.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_tn.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_tx.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_tx.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_ut.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_ut.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_va.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_va.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_vt.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_vt.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_wa.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_wa.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_wi.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_wi.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_wv.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_wv.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-usa_wy.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-usa_wy.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-uzb.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-uzb.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-ven.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-ven.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-vnm.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-vnm.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-world-continents.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-world-continents.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-world-countries.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-world-countries.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-yem.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-yem.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-zaf.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-zaf.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-zmb.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-zmb.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps-zwe.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps-zwe.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-maps.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-maps.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-navpie.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-navpie.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-nestedpie.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-nestedpie.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-objects.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-objects.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-pareto.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-pareto.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-patterns.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-patterns.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-piano.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-piano.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-pie.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-pie.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-pie3d.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-pie3d.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-populationpyramid.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-populationpyramid.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-preview.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-preview.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-r.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-r.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-radar.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-radar.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-range.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-range.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-rankflow.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-rankflow.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-refresh.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-refresh.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-scalemarkers.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-scalemarkers.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-scatter.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-scatter.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-scroll.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-scroll.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-selection-tool.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-selection-tool.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-selection.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-selection.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-stock.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-stock.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-stream.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-stream.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-svg-simple-selection.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-svg-simple-selection.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-toolbar3d.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-toolbar3d.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-tooltip.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-tooltip.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-treemap.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-treemap.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-varea.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-varea.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-vbar.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-vbar.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-vbar3d.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-vbar3d.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-vbullet.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-vbullet.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-venn.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-venn.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-vfunnel.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-vfunnel.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-vline.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-vline.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-waterfall.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-waterfall.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-wordcloud.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-wordcloud.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-xy.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-xy.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-yx.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-yx.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\admin_modules\\zingchart-zoom.min.js",
+      "PackagePath": "staticwebassets\\admin_modules\\zingchart-zoom.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\TinTuc.css",
+      "PackagePath": "staticwebassets\\css\\TinTuc.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\open-iconic\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.eot"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\open-iconic\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.otf"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\open-iconic\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.svg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\open-iconic\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.ttf"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\fonts\\open-iconic\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.woff"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\.jpg",
+      "PackagePath": "staticwebassets\\images\\.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\1140x140-fce9.jpg",
+      "PackagePath": "staticwebassets\\images\\1140x140-fce9.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\2-10.jpg",
+      "PackagePath": "staticwebassets\\images\\2-10.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\20c30003-b4ac-485a-9fd8-f47476930093.jpg",
+      "PackagePath": "staticwebassets\\images\\20c30003-b4ac-485a-9fd8-f47476930093.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\4cddea6c-3845-4c6c-aff7-7bca1c2d4f44.jpg",
+      "PackagePath": "staticwebassets\\images\\4cddea6c-3845-4c6c-aff7-7bca1c2d4f44.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\8b95a544-6f18-41c6-a8d3-1b37c3e4107d.jpg",
+      "PackagePath": "staticwebassets\\images\\8b95a544-6f18-41c6-a8d3-1b37c3e4107d.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\C200-Avantgarde-Plus.jpg",
+      "PackagePath": "staticwebassets\\images\\C200-Avantgarde-Plus.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\DRAGONCAR.png",
+      "PackagePath": "staticwebassets\\images\\DRAGONCAR.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\a448f8ab-1ee0-422d-a3e5-caca85e2e2fb.jpg",
+      "PackagePath": "staticwebassets\\images\\a448f8ab-1ee0-422d-a3e5-caca85e2e2fb.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\acount.jpg",
+      "PackagePath": "staticwebassets\\images\\acount.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\b06abcfa-87c1-45b1-adca-f957a8bbb8ef.jpg",
+      "PackagePath": "staticwebassets\\images\\b06abcfa-87c1-45b1-adca-f957a8bbb8ef.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\bg-contact.jpeg",
+      "PackagePath": "staticwebassets\\images\\bg-contact.jpeg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\bg-login.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-login.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\bg_0.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_0.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_2.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\bg_3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_3.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\bmw-2-series-gran-coupe-front-watermarked.jpg",
+      "PackagePath": "staticwebassets\\images\\bmw-2-series-gran-coupe-front-watermarked.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car-1.jpg",
+      "PackagePath": "staticwebassets\\images\\car-1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car-10.jpg",
+      "PackagePath": "staticwebassets\\images\\car-10.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car-11.jpg",
+      "PackagePath": "staticwebassets\\images\\car-11.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car-12.jpg",
+      "PackagePath": "staticwebassets\\images\\car-12.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car-2.jpg",
+      "PackagePath": "staticwebassets\\images\\car-2.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car-3.jpg",
+      "PackagePath": "staticwebassets\\images\\car-3.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car-4.jpg",
+      "PackagePath": "staticwebassets\\images\\car-4.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car-5.jpg",
+      "PackagePath": "staticwebassets\\images\\car-5.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car-6.jpg",
+      "PackagePath": "staticwebassets\\images\\car-6.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car-7.jpg",
+      "PackagePath": "staticwebassets\\images\\car-7.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car-8.jpg",
+      "PackagePath": "staticwebassets\\images\\car-8.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car-9.jpg",
+      "PackagePath": "staticwebassets\\images\\car-9.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\car.svg",
+      "PackagePath": "staticwebassets\\images\\car.svg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\cosySec.png",
+      "PackagePath": "staticwebassets\\images\\cosySec.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\customer-support.png",
+      "PackagePath": "staticwebassets\\images\\customer-support.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\engineering.svg",
+      "PackagePath": "staticwebassets\\images\\engineering.svg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\excel (1).png",
+      "PackagePath": "staticwebassets\\images\\excel (1).png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\finace.png",
+      "PackagePath": "staticwebassets\\images\\finace.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\icon-creta.png",
+      "PackagePath": "staticwebassets\\images\\icon-creta.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\icon-m-u-aumgpos5a9.jpg",
+      "PackagePath": "staticwebassets\\images\\icon-m-u-aumgpos5a9.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\image003-1.jpg",
+      "PackagePath": "staticwebassets\\images\\image003-1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\image_1.jpg",
+      "PackagePath": "staticwebassets\\images\\image_1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\image_2.jpg",
+      "PackagePath": "staticwebassets\\images\\image_2.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\image_3.jpg",
+      "PackagePath": "staticwebassets\\images\\image_3.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\image_4.jpg",
+      "PackagePath": "staticwebassets\\images\\image_4.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\image_5.jpg",
+      "PackagePath": "staticwebassets\\images\\image_5.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\image_6.jpg",
+      "PackagePath": "staticwebassets\\images\\image_6.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\img1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\img2.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\images\\img3.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\images\\img4.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\loc.png",
+      "PackagePath": "staticwebassets\\images\\loc.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\new-840-model-card.png",
+      "PackagePath": "staticwebassets\\images\\new-840-model-card.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\new-x4-model-card.png",
+      "PackagePath": "staticwebassets\\images\\new-x4-model-card.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\new000001.jpg",
+      "PackagePath": "staticwebassets\\images\\new000001.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\new000001.png",
+      "PackagePath": "staticwebassets\\images\\new000001.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\new000002.jpg",
+      "PackagePath": "staticwebassets\\images\\new000002.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\new000002.png",
+      "PackagePath": "staticwebassets\\images\\new000002.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\new000003.jpg",
+      "PackagePath": "staticwebassets\\images\\new000003.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\new000004.jpg",
+      "PackagePath": "staticwebassets\\images\\new000004.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\new000005.jpg",
+      "PackagePath": "staticwebassets\\images\\new000005.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\new000006.jpg",
+      "PackagePath": "staticwebassets\\images\\new000006.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\new000007.jpg",
+      "PackagePath": "staticwebassets\\images\\new000007.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\new000008.jpg",
+      "PackagePath": "staticwebassets\\images\\new000008.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\news.jpg",
+      "PackagePath": "staticwebassets\\images\\news.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\rating.png",
+      "PackagePath": "staticwebassets\\images\\rating.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\unnamed-1.jpg",
+      "PackagePath": "staticwebassets\\images\\unnamed-1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\unnamed-3.jpg",
+      "PackagePath": "staticwebassets\\images\\unnamed-3.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\variety.png",
+      "PackagePath": "staticwebassets\\images\\variety.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\vector-logo.png",
+      "PackagePath": "staticwebassets\\images\\vector-logo.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\z5340947414357_825edf3d2ec5a7f2b3ecc4847968b9b8.jpg",
+      "PackagePath": "staticwebassets\\images\\z5340947414357_825edf3d2ec5a7f2b3ecc4847968b9b8.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\images\\z5453354507570_cf4d2d016716cd946fdf4cbfc7a16790.jpg",
+      "PackagePath": "staticwebassets\\images\\z5453354507570_cf4d2d016716cd946fdf4cbfc7a16790.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\ckeditor-init.js",
+      "PackagePath": "staticwebassets\\js\\ckeditor-init.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\google-map.js",
+      "PackagePath": "staticwebassets\\js\\google-map.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\jquery.timepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.timepicker.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\location.js",
+      "PackagePath": "staticwebassets\\js\\location.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\photo.js",
+      "PackagePath": "staticwebassets\\js\\photo.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\range.js",
+      "PackagePath": "staticwebassets\\js\\range.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollax.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\1.jpg",
+      "PackagePath": "staticwebassets\\upload\\1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\bg_0.jpg",
+      "PackagePath": "staticwebassets\\upload\\bg_0.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\20240530163812843.png",
+      "PackagePath": "staticwebassets\\upload\\car\\20240530163812843.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\20240609203017565.png",
+      "PackagePath": "staticwebassets\\upload\\car\\20240609203017565.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\20240610084442165.png",
+      "PackagePath": "staticwebassets\\upload\\car\\20240610084442165.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\20240610084533102.png",
+      "PackagePath": "staticwebassets\\upload\\car\\20240610084533102.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\20240611003042437.png",
+      "PackagePath": "staticwebassets\\upload\\car\\20240611003042437.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\20240611103148609.jpg",
+      "PackagePath": "staticwebassets\\upload\\car\\20240611103148609.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000000.jpg",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000000.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000001.jpg",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000001.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000002.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000002.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000003.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000003.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000004.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000004.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000005.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000005.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000006.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000006.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000007.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000007.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000008.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000008.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000009.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000009.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000010.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000010.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000011.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000011.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000012.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000012.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000013.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000013.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000014.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000014.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000015.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000015.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000016.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000016.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000017.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000017.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000018.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000018.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000019.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000019.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000020.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000020.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000021.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000021.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000022.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000022.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000023.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000023.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000024.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000024.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000025.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000025.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000026.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000026.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000027.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000027.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000028.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000028.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000029.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000029.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000030.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000030.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000031.jpg",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000031.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000032.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000032.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000033.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000033.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000034.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000034.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000035.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000035.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000036.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000036.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000037.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000037.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000038.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000038.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000039.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000039.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000040.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000040.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000041.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000041.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000042.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000042.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000043.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000043.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000044.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000044.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000045.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000045.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000046.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000046.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000047.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000047.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000048.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000048.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000049.jpg",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000049.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000050.jpg",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000050.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000051.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000051.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000052.png",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000052.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000053.jpg",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000053.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000054.jpg",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000054.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\car\\carOT000055.jpg",
+      "PackagePath": "staticwebassets\\upload\\car\\carOT000055.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\1.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\2-10.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\2-10.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\4cddea6c-3845-4c6c-aff7-7bca1c2d4f44.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\4cddea6c-3845-4c6c-aff7-7bca1c2d4f44.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\8b95a544-6f18-41c6-a8d3-1b37c3e4107d.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\8b95a544-6f18-41c6-a8d3-1b37c3e4107d.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\C200-Avantgarde-Plus.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\C200-Avantgarde-Plus.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\DRAGONCAR.png",
+      "PackagePath": "staticwebassets\\upload\\news\\DRAGONCAR.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\a448f8ab-1ee0-422d-a3e5-caca85e2e2fb.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\a448f8ab-1ee0-422d-a3e5-caca85e2e2fb.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\about.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\about.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\acount.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\acount.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\ava-vama-171815832798848034493-10-0-463-725-crop-17181592710421328718398.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\ava-vama-171815832798848034493-10-0-463-725-crop-17181592710421328718398.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\aventador.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\aventador.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\b06abcfa-87c1-45b1-adca-f957a8bbb8ef.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\b06abcfa-87c1-45b1-adca-f957a8bbb8ef.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\bg-contact.jpeg",
+      "PackagePath": "staticwebassets\\upload\\news\\bg-contact.jpeg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\bg-login.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\bg-login.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\bg_0.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\bg_0.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\bg_1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\bg_2.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\bg_3.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\bg_3.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\bmw-2-series-gran-coupe-front-watermarked.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\bmw-2-series-gran-coupe-front-watermarked.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car-1.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\car-1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car-10.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\car-10.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car-11.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\car-11.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car-12.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\car-12.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car-2.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\car-2.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car-3.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\car-3.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car-4.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\car-4.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car-5.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\car-5.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car-6.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\car-6.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car-7.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\car-7.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car-8.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\car-8.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car-9.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\car-9.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\car.svg",
+      "PackagePath": "staticwebassets\\upload\\news\\car.svg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\cosySec.png",
+      "PackagePath": "staticwebassets\\upload\\news\\cosySec.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\customer-support.png",
+      "PackagePath": "staticwebassets\\upload\\news\\customer-support.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\edit-corolla-cross-3-17173767108931452488981.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\edit-corolla-cross-3-17173767108931452488981.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\edit-subaru-wrx-3-1716172744830537435814.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\edit-subaru-wrx-3-1716172744830537435814.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\engineering.svg",
+      "PackagePath": "staticwebassets\\upload\\news\\engineering.svg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\excel (1).png",
+      "PackagePath": "staticwebassets\\upload\\news\\excel (1).png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\finace.png",
+      "PackagePath": "staticwebassets\\upload\\news\\finace.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\icon-creta.png",
+      "PackagePath": "staticwebassets\\upload\\news\\icon-creta.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\icon-m-u-aumgpos5a9.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\icon-m-u-aumgpos5a9.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\image003-1.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\image003-1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\image_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\image_1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\image_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\image_2.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\image_3.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\image_3.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\image_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\image_4.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\image_5.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\image_5.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\image_6.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\image_6.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\img1.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\img1.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\img2.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\img2.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\img3.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\img3.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\img4.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\img4.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\loc.png",
+      "PackagePath": "staticwebassets\\upload\\news\\loc.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\logo.png",
+      "PackagePath": "staticwebassets\\upload\\news\\logo.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\new-x4-model-card.png",
+      "PackagePath": "staticwebassets\\upload\\news\\new-x4-model-card.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\new000001.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\new000001.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\new000001.png",
+      "PackagePath": "staticwebassets\\upload\\news\\new000001.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\new000002.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\new000002.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\new000002.png",
+      "PackagePath": "staticwebassets\\upload\\news\\new000002.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\new000003.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\new000003.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\new000004.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\new000004.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\new000005.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\new000005.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\new000006.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\new000006.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\new000007.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\new000007.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\new000008.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\new000008.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\news.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\news.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\ranger.png",
+      "PackagePath": "staticwebassets\\upload\\news\\ranger.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\subaru-wrx-3-9045.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\subaru-wrx-3-9045.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\suzuki-jimny-do-tien-do-choi-800-trieu-dong-anh2-171770502058632997009.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\suzuki-jimny-do-tien-do-choi-800-trieu-dong-anh2-171770502058632997009.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\news\\untitled-1718118005167427407462.jpg",
+      "PackagePath": "staticwebassets\\upload\\news\\untitled-1718118005167427407462.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240510201641254.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240510201641254.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240510201750313.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240510201750313.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240510201829033.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240510201829033.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240510203045831.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240510203045831.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511123857164.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511123857164.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511124034111.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511124034111.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511124059267.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511124059267.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511131203840.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511131203840.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511131230336.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511131230336.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511131252563.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511131252563.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511131315049.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511131315049.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511132327352.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511132327352.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511133022878.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511133022878.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511133650031.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511133650031.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511134136165.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511134136165.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511135113498.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511135113498.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511135128899.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511135128899.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240511142519696.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240511142519696.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240513214351709.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240513214351709.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240513215228806.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240513215228806.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240515160753721.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240515160753721.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240515160812988.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240515160812988.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240515214711104.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240515214711104.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240525235958134.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240525235958134.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240526085833586.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240526085833586.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240526093525384.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240526093525384.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240527211612519.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240527211612519.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240528215629791.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240528215629791.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240529232012252.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240529232012252.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240530152455171.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240530152455171.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240530204717100.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240530204717100.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240530205002414.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240530205002414.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240609204102869.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240609204102869.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240609204713535.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240609204713535.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240609215605779.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240609215605779.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240610081820417.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240610081820417.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240610084252674.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240610084252674.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240610084334518.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240610084334518.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240610084840988.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240610084840988.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240610085216988.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240610085216988.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240610085536447.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240610085536447.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240610085624417.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240610085624417.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240610090044351.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240610090044351.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240610090817058.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240610090817058.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240610103134415.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240610103134415.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240610160852032.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240610160852032.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240610221813750.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240610221813750.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240611003350204.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240611003350204.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240611003655849.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240611003655849.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240611015151935.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240611015151935.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240611015236064.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240611015236064.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240611090407570.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240611090407570.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240611092438900.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240611092438900.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\20240612092534286.jpg",
+      "PackagePath": "staticwebassets\\upload\\staff\\20240612092534286.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\add.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\add.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\staffNV000001.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\staffNV000001.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\staff\\staffNV000005.png",
+      "PackagePath": "staticwebassets\\upload\\staff\\staffNV000005.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240527232229263.png",
+      "PackagePath": "staticwebassets\\upload\\user\\20240527232229263.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240527234214444.png",
+      "PackagePath": "staticwebassets\\upload\\user\\20240527234214444.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240527234535535.png",
+      "PackagePath": "staticwebassets\\upload\\user\\20240527234535535.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240528095758200.png",
+      "PackagePath": "staticwebassets\\upload\\user\\20240528095758200.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240530165633634.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240530165633634.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240530175347856.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240530175347856.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240530175430063.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240530175430063.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240530175445326.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240530175445326.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240530180508427.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240530180508427.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240530180517912.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240530180517912.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240530180535862.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240530180535862.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240530180546017.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240530180546017.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240530180600453.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240530180600453.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240530180614716.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240530180614716.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240530180627842.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240530180627842.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240530181858239.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240530181858239.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240608202720222.png",
+      "PackagePath": "staticwebassets\\upload\\user\\20240608202720222.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240610012153144.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240610012153144.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240610012744046.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240610012744046.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240610013006387.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240610013006387.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240611013736631.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240611013736631.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240611083703434.png",
+      "PackagePath": "staticwebassets\\upload\\user\\20240611083703434.png"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240611083810818.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240611083810818.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240611085440842.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240611085440842.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240611090018890.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240611090018890.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240611111743398.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240611111743398.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240611112111309.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240611112111309.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240611161642370.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240611161642370.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240611161700863.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240611161700863.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240611162232311.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240611162232311.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240611163617645.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240611163617645.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240611212646866.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240611212646866.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\20240612084705685.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\20240612084705685.jpg"
+    },
+    {
+      "Id": "E:\\QLDA\\WebPBL3\\WebPBl3\\wwwroot\\upload\\user\\userKH000000.jpg",
+      "PackagePath": "staticwebassets\\upload\\user\\userKH000000.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebPBL3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebPBL3.props",
+      "PackagePath": "build\\WebPBL3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebPBL3.props",
+      "PackagePath": "buildMultiTargeting\\WebPBL3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebPBL3.props",
+      "PackagePath": "buildTransitive\\WebPBL3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

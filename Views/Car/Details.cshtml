@@ -1,0 +1,47 @@
+﻿@using WebPBL3.DTO
+@using Newtonsoft.Json
+@model CarDTO
+
+
+@{
+
+    ViewData["Title"] = "Chi tiết ô tô";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+   
+}
+
+
+<br />
+<div class="row">
+        <div class="col-md-4" style="padding-top: 10px;font-family:Microsoft Sans Serif" >
+            <h4 style="font-size:30px;font-weight: bold;" >@Model.CarName</h4>
+            <h6 style="font-size:25px;font-weight: bold;">@String.Format("{0:N0}", Model.Price) VNĐ</h6>
+            <hr sstyle="height: 2px;" />
+            <p style="font-size:15px">Tên xe: @Model.CarName</p>
+            <p style="font-size:15px">Thương hiệu: @Model.MakeName</p>
+            <p style="font-size:15px">Giá xe: @String.Format("{0:N0}", Model.Price) VNĐ</p>
+            <p style="font-size:15px">Động cơ: @Model.Engine</p>
+            <p style="font-size:15px">Số chỗ ngồi: @Model.Seat</p>
+            <p style="font-size:15px">Kích thước: @Model.Dimension (mm)</p>
+            <p style="font-size:15px">Nguồn gốc: @Model.Origin</p>
+            <p style="font-size:15px">Tốc độ tối đa: @Model.Topspeed (Km/h)</p>
+            <p style="font-size:15px">Dung tích: @Model.Capacity (L)</p>
+            <p style="font-size:15px">Nhiên liệu tiêu thụ: @Model.FuelConsumption (L/100Km)</p>
+            <p style="font-size:15px">Màu sắc: @Model.Color</p>
+            <p style="font-size:15px">Năm sản xuất: @Model.Year</p>
+            <p style="font-size:15px">Số lượng: @Model.Quantity</p>
+            <p style="font-size:15px">Mô tả: @Model.Description</p>
+            <div class="col-md-2"> 
+                <a asp-controller="Car" asp-action="CarListTable" class="btn btn-success">
+                    Quay lại danh sách
+                </a>
+            </div>
+            
+       </div>
+        <div class="col-md-8">
+            <img src="~/upload/car/@Model.Photo" style="display:block; margin: auto; height: 500px; width: auto; padding-top:150px" />
+        </div>
+    
+</div>
+
+    

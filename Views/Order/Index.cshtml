@@ -1,0 +1,220 @@
+﻿@model List<Order>
+@{
+    ViewData["Title"] = "Quản lý bán hàng";
+    Layout = "_AdminLayout";
+    int count = 1;
+    int page = ViewBag.currentPage;
+    int total = ViewBag.totalPage;
+}
+<div class="card shadow border-0">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Danh sách các đơn hàng</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <div class="row pb-3 mb-2">
+            <div class="col-6">
+                <div class="col-12 d-flex justify-content-around align-item-center">
+                    <div class="input-group col-6">
+                        <input name="idUser" id="idUser" value="@ViewBag.idUser" type="text" class="form-control" placeholder="Tìm kiếm hóa đơn" />
+                        <div class="input-group-prepend">
+                            <div class="input-group-text">
+                                <a id="submitForm"><i class="fa-solid fa-magnifying-glass"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <select name="status" id="status" class="form-select" title="status">
+                        <option value="" selected>Tình trạng</option>
+                        @if(ViewBag.status=="Đã thanh toán")
+                        {
+                            <option value="Đã thanh toán" selected>Đã thanh toán</option>
+                        }else{
+                            <option value="Đã thanh toán">Đã thanh toán</option>
+                        }
+                        @if(ViewBag.status=="Chưa thanh toán")
+                        {
+                            <option value = "Chưa thanh toán" selected > Chưa thanh toán</option>
+                        }else{
+                             <option value = "Chưa thanh toán" > Chưa thanh toán</option>
+                        }
+                    </select>
+                </div>
+            </div>
+            <div class="col-6 text-light" style="text-align: right;">
+                <a  class="btn btn-primary" asp-controller="Order" asp-action="Creat">
+                    <i class="fa-solid fa-plus"></i> Tạo đơn hàng
+                </a>
+            </div>
+        </div>
+
+        <table class="table table-striped">
+            <thead>
+                
+                <tr>
+                    <th>
+                        STT
+                    </th>
+                    <th>
+                        Mã đơn hàng
+                    </th>
+                    <th>
+                        Mã khách hàng
+                    </th>
+                    <th>
+                        Ngày lập hóa đơn
+                    </th>
+                    <th>
+                        Tình trạng
+                    </th>
+                    <th>
+                        Tổng tiền
+                    </th>
+                    <th>
+                    </th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model)
+                {
+                    <tr>
+                        <td>@(count++)</td>
+                        <td>@obj.OrderID</td>
+                        <td>@obj.UserID</td>
+                        <td>@obj.Date.ToString("dd/MM/yyyy")</td>
+                        <td>@obj.Status</td>
+                        <td>@obj.Totalprice.ToString("C", new System.Globalization.CultureInfo("vi-VN"))</td>
+                        <td>
+                            <div class="w-75 d-flex justify-content-around btn-group" role="group">
+                                <a asp-controller="Order" asp-action="Detail" asp-route-id="@obj.OrderID" class="btn btn-outline-success">
+                                    <i class="fa-solid fa-eye"></i>
+                                    Chi tiết
+                                </a>
+                                <!-- Sử dụng icon pen cho Cập nhật -->
+                                @if(obj.Status=="Chưa thanh toán")
+                                {
+                                    <a href="#updateModal-@obj.OrderID" class="btn btn-warning" data-toggle="modal">
+                                        <i class="fa-solid fa-pen-to-square"></i>
+                                        Cập nhật
+                                    </a>
+                                    <div id="updateModal-@obj.OrderID" class="modal fade">
+                                        <div class="modal-dialog modal-dialog-centered modal-confirm">
+                                            <div class="modal-content">
+                                                <div class="modal-header flex-column">
+                                                    <div class="icon-box" style="border-color: green">
+                                                        <i class="material-icons" style="color: green">?</i>
+                                                    </div>
+                                                    <h4 class="modal-title w-100">Xác nhận</h4>
+                                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                                </div>
+                                                <div class="modal-body" style="color: black">
+                                                    <p>Đơn hàng này đã được thanh toán phải không? Quá trình này không thể hoàn tác.</p>
+                                                </div>
+                                                <div class="modal-footer justify-content-center">
+                                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Hủy</button>
+                                                    <a asp-controller="Order" asp-action="EditOrder" asp-route-id="@obj.OrderID" class="btn btn-success" style="color:white;background-color: #1ed085;border-color: #1ed085;line-height: 30px">
+                                                        Xác nhận
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Sử dụng icon trash cho Xóa -->
+                                    <a href="#deleteModal-@obj.OrderID" class="btn btn-danger" id="deleteButton" data-toggle="modal">
+                                        <i class="fa-solid fa-trash"></i>
+                                        Xóa
+                                    </a>
+                                    <div id="deleteModal-@obj.OrderID" class="modal fade">
+                                        <div class="modal-dialog modal-dialog-centered modal-confirm">
+                                            <div class="modal-content">
+                                                <div class="modal-header flex-column">
+                                                    <div class="icon-box">
+                                                        <i class="material-icons">&#xE5CD;</i>
+                                                    </div>
+                                                    <h4 class="modal-title w-100">Xác nhận</h4>
+                                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                                </div>
+                                                <div class="modal-body" style="color: black">
+                                                    <p>Bạn có thực sự muốn xóa không? Quá trình này không thể hoàn tác.</p>
+                                                </div>
+                                                <div class="modal-footer justify-content-center">
+                                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Hủy</button>
+                                                    <a asp-controller="Order" asp-action="DeleteOrder" asp-route-id="@obj.OrderID" class="btn btn-danger" style="color:white; line-height: 30px">
+                                                        Xác nhận
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <a class="btn btn-secondary text-light">
+                                        <i class="fa-solid fa-pen-to-square"></i>
+                                        Cập nhật
+                                    </a>
+                                    <!-- Sử dụng icon trash cho Xóa -->
+                                    <a class="btn btn-secondary text-light" id="deleteButton">
+                                        <i class="fa-solid fa-trash"></i>
+                                        Xóa
+                                    </a>
+                                }
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+@if (total > 0)
+{
+    <ul style="display: flex; justify-content: center; align-items: center; padding: 0; margin-top: 10px; list-style: none;">
+        <li style="margin-left: 3px;padding: 0;width: 30px;height: 30px;line-height: 30px;-moz-border-radius: 100%;-webkit-border-radius: 100%;border-radius: 100%;"><a asp-action="Index" asp-route-status="@ViewBag.status" asp-route-idUser="@ViewBag.idUser" asp-route-page="@(page - 1)" class="prev" style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;color:black">&laquo</a></li>
+        @for (int i = 1; i <= total; i++)
+        {
+            @if (i == page)
+            {
+                <li style="margin-left: 3px;padding: 0;width: 30px;height: 30px;line-height: 30px;-moz-border-radius: 100%;-webkit-border-radius: 100%;border-radius: 100%;background-color: #37B247;">
+                    <a asp-action="Index" asp-route-status="@ViewBag.status" asp-route-idUser="@ViewBag.idUser" asp-route-page="@i" style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;color:black">
+                        @i
+                    </a>
+                </li>
+            }
+            else
+            {
+                <li style="margin-left: 3px;padding: 0;width: 30px;height: 30px;line-height: 30px;-moz-border-radius: 100%;-webkit-border-radius: 100%;border-radius: 100%;">
+                    <a asp-action="Index" asp-route-status="@ViewBag.status" asp-route-idUser="@ViewBag.idUser" asp-route-page="@i" style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;color:black">
+                        @i
+                    </a>
+                </li>
+            }
+        }
+        <li style="margin-left: 3px;padding: 0;width: 30px;height: 30px;line-height: 30px;-moz-border-radius: 100%;-webkit-border-radius: 100%;border-radius: 100%;"><a asp-action="Index" asp-route-status="@ViewBag.status" asp-route-idUser="@ViewBag.idUser" asp-route-page="@(page + 1)" class="next" style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;color:black">&raquo;</a></li>
+    </ul>
+}
+<script>
+    document.getElementById("status").addEventListener('change', () => {
+        var idUser = document.getElementById('idUser').value;
+        var status = document.getElementById('status').value;
+        var url = '/Order/Index?status=' + status + "&idUser=" + idUser;
+        window.location.href = url;
+    })
+    document.getElementById('idUser').addEventListener('keydown', (e) => {
+        if (e.keyCode === 13) {
+            var idUser = document.getElementById('idUser').value;
+            var status = document.getElementById('status').value;
+            var url = '/Order/Index?status=' + status + "&idUser=" + idUser;
+            window.location.href = url;
+        }
+    })
+    document.getElementById('submitForm').addEventListener('click', (e) => {
+        var idUser = document.getElementById('idUser').value;
+        var status = document.getElementById('status').value;
+        var url = '/Order/Index?status=' + status + "&idUser=" + idUser;
+        window.location.href = url;
+    })
+</script>

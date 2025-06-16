@@ -1,0 +1,4 @@
+hãy tạochức năng xóa đơn hàng trong dự án của tôi, bao gồm:
+-Phương thức DeleteOrder trong OrderService.cs.
+-Khai báo DeleteOrder trong IOrderService.cs.
+-Action DeleteOrder trong OrderController.cs.

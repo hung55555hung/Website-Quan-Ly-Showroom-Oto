@@ -1,0 +1,248 @@
+﻿@using Microsoft.AspNetCore.Identity
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+	<title>DragonCar</title>
+	
+    <link href="~/images/dragoncar.png" rel="icon" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap" rel="stylesheet" />
+    <link href="~/css/animate.css" rel="stylesheet"/>
+	<link href="~/css/aos.css" rel="stylesheet"/>
+    <link href="~/css/expand.scss" rel="stylesheet"/>
+	<link href="~/css/bootstrap-datepicker.css" rel="stylesheet"/>
+    <link href="~/css/flaticon.css" rel="stylesheet" />
+	<link href="~/css/icomoon.css" rel="stylesheet"/>
+	<link href="~/css/ionicons.min.css" rel="stylesheet"/>
+	<link href="~/css/jquery.timepicker.css" rel="stylesheet"/>
+	<link href="~/css/magnific-popup.css" rel="stylesheet"/>
+	<link href="~/css/open-iconic-bootstrap.min.css" rel="stylesheet"/>
+	<link href="~/css/owl.carousel.min.css" rel="stylesheet"/>
+	<link href="~/css/owl.theme.default.min.css" rel="stylesheet"/>
+	<link href="~/css/site.css" rel="stylesheet" /> 
+	<link href="~/css/style.css" rel="stylesheet" />
+    <link href="~/css/tintuc.css" rel="stylesheet" />
+    <link href="~/css/nice-select.css" rel="stylesheet" />
+    @RenderSection("NewStyles", required: false)
+    @RenderSection("AboutStyles",required:false)
+    @RenderSection("ContactStyles",required: false)
+    @RenderSection("CarStyles", required: false)
+    
+  </head>
+  <body>
+    @{
+        var avatar = TempData["avatar"] as string;
+        TempData.Keep("avatar");
+        string Avatar = "userkh000000.jpg";
+            if (!string.IsNullOrEmpty(avatar))
+            {
+                Avatar = avatar;
+            }
+       }
+      <!--Header-->
+    
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light" id="ftco-navbar">
+                <div class="container">
+                    <a class="navbar-brand" href="@Url.Action("Index", "Home")">Dragon<span>Car</span></a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+                        <i class="fa-solid fa-bars"></i>Menu
+                    </button>
+                    
+                    <div class="collapse navbar-collapse" id="ftco-nav">
+                        <ul class="navbar-nav" >
+                            <li class="nav-item active"><a href="@Url.Action("Index", "Home")" class="nav-link">Trang Chủ</a></li>
+                            <li class="nav-item "><a href="@Url.Action("About", "Home")" class="nav-link">Giới Thiệu</a></li>
+                            <li class="nav-item"><a href="@Url.Action("Index", "Car")" class="nav-link">Sản phẩm</a></li>
+                            <li class="nav-item"><a href="@Url.Action("Index", "News")" class="nav-link">Tin Tức</a></li>
+							<li class="nav-item"><a href="@Url.Action("Index", "Contact")" class="nav-link">Liên Hệ</a></li>
+                            @if (!User.Identity.IsAuthenticated)
+                            {
+                                <li class="nav-item">   
+                                    <a href="@Url.Action("Login", "Account")" class="nav-link">Đăng nhập</a> 
+                                </li>
+                            } 
+
+                        </ul>
+                        
+                    </div>
+                    <div class="collapse navbar-collapse" id="ftco-nav">
+                    <ul class="navbar-nav ml-auto">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item dropdown">
+								<a class="dropdown-toggle" data-toggle="dropdown">
+									@if(User.IsInRole("Staff"))
+                                    {
+                                        <img class="img-responsive rounded-circle" src="~/upload/staff/@Avatar" alt="#" style="width: 65px; height: 65px;" />
+                                    } else
+                                    {
+                                        <img class="img-responsive rounded-circle" src="~/upload/user/@Avatar" alt="#" style="width: 65px; height: 65px;" />
+                                    }
+                                    
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right">
+                                    <a class="dropdown-item" href="@Url.Action("InforAccount","Account")">Thông tin cá nhân</a>
+                                    <a class="dropdown-item" href="@Url.Action("ChangePassword","Account")">Thay đổi mật khẩu</a>
+                                    
+                                    @if (User.IsInRole("User"))
+                                    {
+                                        <a class="dropdown-item" href="@Url.Action("HistoryOrder","Account")">Lịch sử mua hàng</a>
+                                    }
+
+                                    <a class="dropdown-item" href="@Url.Action("Logout", "Account")">
+                                        <span>Log Out</span>
+                                        <i class="fa fa-sign-out"></i>
+                                    </a>
+                                </div>
+                            </li>
+                        }
+                    </ul>
+                    </div>
+                </div>
+                
+            </nav>
+        </header>
+ 
+    
+    <main>
+       @RenderBody()
+    </main> 
+    <!--Footer-->
+
+    
+                           
+     <footer id = "footer" class="ftco-footer ftco-bg-dark ftco-section">
+        <section id="footertop" class="footer-top">
+            <div class="container">
+                <div class="footer_boxed">
+                    <div class="block footer_html">
+                        <div class="block_content">
+                            <div class="row">
+                                <div class="col-md-3 p-3">
+                                    <div class="service-body d-flex align-items-center justify-content-center">
+                                        <i class="fa-solid fa-truck pr-2" style="font-size: 30px;"></i>
+                                        <div class="sb-text">
+                                            <h5 style="color: darkred">MIỄN PHÍ BẢO DƯỠNG</h5>
+                                            <p class="m-0">Trong 1000 km đầu tiên</p>
+                                        </div>
+                                    </div>
+                                </div>
+                  
+                            <div class="col-md-3 p-3">
+                                <div class="service-body d-flex align-items-center justify-content-center">
+                                    <i class="fa-solid fa-arrow-rotate-left pr-2" style="font-size: 30px;"></i>
+                                    <div class="sb-text">
+                                        <h5 style="color: darkred">MIỄN PHÍ TRẢ HÀNG</h5>
+                                            <p class="m-0">Chính sách hoàn trả 90 ngày</p>
+                                    </div>
+                                </div>
+                            </div>
+                                <div class="col-md-3 p-3">
+                                <div class="service-body d-flex align-items-center justify-content-center">
+                                    <i class="fa-solid fa-calendar-days pr-2" style="font-size: 30px;"></i>
+                                    <div class="sb-text">
+                                        <h5 style="color: darkred">CẬP NHẬT HÀNG NGÀY</h5>
+                                            <p class="m-0">Những sản phẩm mới nhất</p>
+                                    </div>
+                                </div>
+                            </div>
+                                <div class="col-md-3 p-3">
+                                <div class="service-body d-flex align-items-center justify-content-center">
+                                    <i class="fa-solid fa-phone pr-2" style="font-size: 30px;"></i>
+
+                                    <div class="sb-text">
+                                        <h5 style="color: darkred">HỖ TRỢ 24/7</h5>
+                                        <p class="m-0">Hotline: 0777 345 123</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>
+
+        <section id="footercenter" class="footercenter">
+            <div class="container">
+
+                <div class="row mb-5">
+                    <div class="col-md">
+                        <div class="ftco-footer-widget mb-4">
+                            <h2 class="ftco-heading-2"><a href="#" class="logo ml-0">DRAGON<span>CAR</span></a></h2>
+                            <p>Chất Lượng, Sự Sang Trọng, Lựa Chọn – Xe Hơi, Đỉnh Cao Của Sự Tinh Tế</p>
+                            <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
+                                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><i class="fa-brands fa-twitter" style="font-size: 1.6rem;"></i></a></li>
+                                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><i class="fa-brands fa-facebook-f" style="font-size: 1.6rem;"></i></a></li>
+                                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><i class="fa-brands fa-instagram " style="font-size: 1.6rem;"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md">
+                        <div class="ftco-footer-widget mb-4">
+                            <h2 class="ftco-heading-2">Liên Hệ</h2>
+                            <div class="block-23 mb-3">
+                                <ul>
+                                    <li><a><i class="fa-solid fa-location-dot pr-2"></i><span class="text">811-813 Nguyễn Văn Linh, Q. Hải Châu, Tp. Đà Nẵng</span></a></li>
+                                    <li><a href="#"><i class="fa-solid fa-phone pr-2"></i><span class="text">0777 345 123</span></a></li>
+                                    <li><a href="#"><i class="fa-solid fa-envelope pr-2"></i><span class="text">giamdoc@gmail.com</span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 text-center">
+
+                        <p>
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        @if (User.Identity.IsAuthenticated && (User.IsInRole("Admin") || User.IsInRole("Staff")))
+        {
+            <a href="@Url.Action("CarListTable", "Car")" style="background-color: darkred; color: white; padding: 10px 20px; text-decoration: none; display: inline-block; border-radius: 5px;">Đến trang quản lý</a>
+        }
+
+        
+    </footer> 
+    
+  
+
+  <!-- loader -->
+  
+
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="/js/popper.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.easing.1.3.js"></script>
+    <script src="/js/jquery.waypoints.min.js"></script>
+    <script src="/js/jquery.stellar.min.js"></script>
+    <script src="/js/owl.carousel.min.js"></script>
+    <script src="/js/jquery.magnific-popup.min.js"></script>
+    <script src="/js/aos.js"></script>
+    <script src="/js/jquery.animateNumber.min.js"></script>
+    <script src="/js/bootstrap-datepicker.js"></script>
+    <script src="/js/jquery.timepicker.min.js"></script>
+    <script src="/js/scrollax.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+    <script src="/js/google-map.js"></script>
+    <script src="/js/main.js"></script>
+	<script src="/js/site.js"></script> 
+	<script src="/js/app.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+  </body>
+</html>

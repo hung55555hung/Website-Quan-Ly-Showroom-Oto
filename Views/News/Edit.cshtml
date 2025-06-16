@@ -1,0 +1,63 @@
+﻿@model WebPBL3.DTO.NewsDTO
+
+@{
+    ViewData["Title"] = "Cập nhật Tin Tức";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    string FilePath = ViewBag.filePath;
+    Console.WriteLine(FilePath);
+}
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" name="CarID" value="@Model.NewsID" />
+            <input type="hidden" id="photoPath" data-photo="@Url.Content(Model.Photo)" />
+            <div class="form row">
+                <div class="form-group col-md-9">
+                    <label asp-for="Title" class="control-label">Tiêu đề</label>
+                    <textarea asp-for="Title" class="form-control"></textarea>
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-3">
+                    <label asp-for="CreateAt" class="control-label">Ngày tạo</label>
+                    <input asp-for="CreateAt" class="form-control" type="date" />
+                    <span asp-validation-for="CreateAt" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form row">
+                <div class="form-group col-md-12">
+                    <label asp-for="Content" class="control-label">Nội dung</label>
+                    <textarea class="form-control" style="height: 300px;" name=" Content" id="inputNoiDung" >@Model.Content</textarea>
+                    <input type="hidden" asp-for="Content" id="inputContent" />
+
+                    <span asp-validation-for="Content" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form row" style="display: flex; justify-content: flex-end;">
+                <div class="form-group col-md-2">
+                    <button type="submit" class="btn btn-primary form-control">Cập nhật</button>
+                </div>
+                <div class="form-group col-md-2">
+                    <a asp-controller="News" asp-action="ListNews" class="btn btn-outline-primary border form-control">
+                        Quay lại danh sách
+                    </a>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+<!-- Truyền giá trị từ Model vào biến JavaScript -->
+<script>
+    var FILEPATH = '@FilePath';
+    console.log(FILEPATH + " hello");
+</script>
+
+@section Scripts {
+    <script src="https://cdn.ckeditor.com/ckeditor5/41.4.2/super-build/ckeditor.js"></script>
+    <script src="~/js/ckeditor-init.js"></script>
+}
+
