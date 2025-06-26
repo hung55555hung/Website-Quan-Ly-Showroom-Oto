@@ -81,9 +81,3 @@ The application is built using **ASP.NET Core MVC**, leveraging **Entity Framewo
 - Manage feedback.
 
 ---
-
-## 📽️ Demo Video
-
-👉 Click the link below to watch the demo:
-
-https://drive.google.com/file/d/1bYrBC-piiDBMf_G93nlK_5JYwZIk8E_U/view?usp=sharing
